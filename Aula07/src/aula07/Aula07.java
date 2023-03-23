@@ -10,7 +10,7 @@ public class Aula07 {
         
         l[2].status();
   
-        System.out.println("\n" + l[3].getCategoria());
+        //System.out.println("\n" + l[3].getCategoria());
         System.out.println();
   
         l[1].ganharLuta();
